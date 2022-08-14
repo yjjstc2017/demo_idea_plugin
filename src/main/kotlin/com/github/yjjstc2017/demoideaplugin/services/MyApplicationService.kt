@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yjjstc2017.demoideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yjjstc2017.demoideaplugin.MyBundle
 
 class MyApplicationService {
 
